@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1760723226 source:c:\users\sgrrg\onedrive\asztali gép\gyorstalpalo\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<locale.h>
+
